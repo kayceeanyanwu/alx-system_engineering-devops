@@ -1,6 +1,0 @@
-0 string SCHOOL School data
-!:mime School
-
-Then run
-
-file -C -m school.mgc*
