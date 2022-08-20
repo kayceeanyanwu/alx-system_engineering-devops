@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# lists all the processes
+#list all pids
 
 ps -auxf
