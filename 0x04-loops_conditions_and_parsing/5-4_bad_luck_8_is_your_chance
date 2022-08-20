@@ -12,4 +12,4 @@ while [ $i -lt 11 ]; do
         echo "Best School"
     fi
     let i+=1
-done'
+done
