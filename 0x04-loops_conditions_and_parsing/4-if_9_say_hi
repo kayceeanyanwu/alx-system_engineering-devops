@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # loop 10 times, prints, on 9th loop says hi
 
-i=10
+i=11
 
 while [ $i -gt 0 ];do
-    echo "Holberton School"
-    if [ $i = 2 ]; then
+    echo "Best School"
+    if [ $i = 10 ]; then
         echo "Hi"
     fi
     let i-=1
