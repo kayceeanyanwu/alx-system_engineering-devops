@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-#display pid of a bash
-'echo $PPID'
+# display bash PID
+
+pgrep -l bash -c 'echo $PPID'
